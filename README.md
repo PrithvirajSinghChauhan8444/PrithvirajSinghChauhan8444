@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prithviraj%20Singh%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Prit!+%F0%9F%91%8B;ECE+Student+%40+IIIT-Naya+Raipur;Linux+Enthusiast+%7C+System+Automator;Building+cool+stuff+with+embedded+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Prithvi!+%F0%9F%91%8B;ECE+Student+%40+IIIT-Naya+Raipur;Linux+Enthusiast+%7C+System+Automator;Building+cool+stuff+with+embedded+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ education: Electronics & Communication Engineering (ECE)
 - 🌱 **Currently learning:** System communication protocols, advanced Python debugging & embedded hardware integration
 - 👯 **Looking to collaborate on:** IoT projects, embedded systems, and open-source automation tools
 - 📸 **Creative Side:** Photography enthusiast
-- ⚡ **Fun Fact:** Passionate about "ricing" Linux setups (KDE Plasma/Cinnamon) and PC customization!
+- ⚡ **Fun Fact:** Passionate about "ricing" Linux setups (Hyprland/KDE Plasma/Cinnamon) and PC customization!
 
 ---
 
