@@ -137,12 +137,6 @@ Triggering notifications and device controls directly from PC via protocol analy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrithvirajSinghChauhan8444&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a855f7&line=a855f7&point=FFFFFF" width="100%"/>
 </p>
 
-#### 📊 GitHub Metrics & Achievements
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
 ---
 
 <p align="center">
